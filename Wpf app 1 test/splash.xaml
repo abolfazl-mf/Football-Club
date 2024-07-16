@@ -1,0 +1,49 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_app_1_test"
+        xmlns:hc="https://handyorg.github.io/handycontrol" x:Class="Wpf_app_1_test.splash"
+        mc:Ignorable="d"
+         WindowStartupLocation="CenterScreen"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="splash" Height="680" Width="1100">
+    <Border BorderThickness="5" BorderBrush="#0a2463" CornerRadius="10">
+        <Grid Background="#0a2463" Loaded="Grid_Loaded">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <ProgressBar x:Name="progress" Grid.ColumnSpan="12" Grid.Row="11" HorizontalAlignment="Center" Height="Auto" Margin="22,16.2,14.4,11.2" Width="1154" Value="15" Foreground="Green" RenderTransformOrigin="0.5,0.5"/>
+            <Label Content="...در حال بارگذاری اطلاعات" HorizontalAlignment="Center" Grid.Column="3" Grid.ColumnSpan="6"  Grid.Row="9" Background="Transparent" Foreground="#f2f2f2" FontSize="30" Width="374" RenderTransformOrigin="0.228,0.244" Height="73" BorderBrush="Transparent" Grid.RowSpan="2" Margin="83.4,38.6,89.133,14.8"/>
+        </Grid>
+    </Border>
+</Window>

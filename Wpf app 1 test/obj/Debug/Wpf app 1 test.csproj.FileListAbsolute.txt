@@ -1,0 +1,200 @@
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Wpf app 1 test.exe.config
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Wpf app 1 test.exe
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Wpf app 1 test.pdb
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BE.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BehComponents.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BLL.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DAL.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Mvvm.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Xpf.Core.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Guna.UI.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Guna.UI2.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\HandyControl.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\SmsIrRestful.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BE.pdb
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BLL.pdb
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BLL.dll.config
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DAL.pdb
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DAL.dll.config
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Mvvm.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Xpf.Core.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\HandyControl.pdb
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\HandyControl.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Xpf.Core.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Xpf.Core.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Xpf.Core.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Xpf.Core.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.AssemblyReference.cache
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\clockMain.g.cs
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\MainWindow.g.cs
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\splash.g.cs
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\App.g.cs
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test_MarkupCompile.cache
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test_MarkupCompile.lref
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\App.baml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\clockMain.baml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\MainWindow.baml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\splash.baml
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.g.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.choose1s.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.choosebartar.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.addPlayer.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.addManager.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.messageboxform.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.Form3.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.Properties.Resources.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.register.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.smscn.resources
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.GenerateResource.cache
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.exe.licenses
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.CoreCompileInputs.cache
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.CopyComplete
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.exe
+D:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.pdb
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Wpf app 1 test.exe.config
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Wpf app 1 test.exe
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Wpf app 1 test.pdb
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BE.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BLL.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DAL.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\Guna.UI2.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\HandyControl.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\SmsIrRestful.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BE.pdb
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BLL.pdb
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\BLL.dll.config
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DAL.pdb
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DAL.dll.config
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Data.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Mvvm.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Xpf.Core.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\HandyControl.pdb
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\HandyControl.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Xpf.Core.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Xpf.Core.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Xpf.Core.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Xpf.Core.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.AssemblyReference.cache
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\clockMain.g.cs
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\MainWindow.g.cs
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\splash.g.cs
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\App.g.cs
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test_MarkupCompile.cache
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test_MarkupCompile.lref
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\App.baml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\clockMain.baml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\MainWindow.baml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\splash.baml
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.g.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.choose1s.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.choosebartar.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.addPlayer.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.addManager.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.messageboxform.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.Form3.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.Properties.Resources.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.register.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf_app_1_test.smscn.resources
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.GenerateResource.cache
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.exe.licenses
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.CoreCompileInputs.cache
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.csproj.CopyComplete
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.exe
+E:\Users\PGSHCO\source\repos\Wpf app 1 test\Wpf app 1 test\obj\Debug\Wpf app 1 test.pdb
